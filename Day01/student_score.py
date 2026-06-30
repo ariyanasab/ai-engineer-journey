@@ -18,8 +18,7 @@ def main():
     occupation=input("what do you do ?")
     hello(name,city,age,occupation)
 
-def hello(name,city,age,occupatin):
-    output=f"Hello , {name} , {age} years old {occupatin} from {city} city .".title()
-    print(output)
+def hello(name, city, age, occupation):
+    print(f"Hello , {name} , {age} years old {occupation} from {city} city .".title())
 
 main()
