@@ -1,6 +1,6 @@
 # Day 00
 
-## Topic
+## Topics
 
 - Input
 - Output
@@ -11,7 +11,7 @@
 
 ## Project
 
-**Profile Generator**
+### Profile Generator
 
 A simple Python program that collects user information and displays a formatted profile.
 
@@ -33,3 +33,7 @@ A simple Python program that collects user information and displays a formatted 
 - Passing arguments to functions
 - Using f-strings
 - Organizing a simple Python program
+
+## Status
+
+✅ Completed

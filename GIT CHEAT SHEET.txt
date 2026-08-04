@@ -1,0 +1,112 @@
+==============================
+GIT CHEAT SHEET
+==============================
+
+git status
+بررسی وضعیت پروژه و دیدن تغییرات
+
+git add .
+اضافه کردن همه تغییرات به مرحله آماده ثبت (Stage)
+
+git commit -m "message"
+ثبت تغییرات در سیستم با یک توضیح
+
+git push
+ارسال Commit ها به GitHub
+
+git pull
+دریافت آخرین تغییرات از GitHub
+
+git log --oneline
+نمایش تاریخچه Commit ها
+
+git log --oneline -5
+نمایش 5 Commit آخر
+
+git branch
+نمایش Branch های پروژه
+
+git checkout branch-name
+تغییر Branch
+
+
+==============================
+RUFF CHEAT SHEET
+==============================
+
+python -m ruff check .
+بررسی خطاها و استانداردهای کد
+
+python -m ruff check . --select ALL
+بررسی کامل همه قوانین Ruff
+
+python -m ruff check . --fix
+اصلاح خودکار خطاهای قابل اصلاح
+
+python -m ruff format .
+مرتب‌سازی و فرمت کردن کد Python
+
+python -m ruff format . --check
+بررسی فرمت کد بدون تغییر
+
+
+==============================
+BLACK FORMATTER
+==============================
+
+black main.py
+فرمت کردن یک فایل Python
+
+black .
+فرمت کردن کل پروژه
+
+
+==============================
+PYTHON
+==============================
+
+python main.py
+اجرای فایل Python
+
+
+==============================
+DAILY WORKFLOW
+==============================
+
+python -m ruff check . --fix
+رفع خطاهای کد
+
+python -m ruff format .
+مرتب کردن ظاهر کد
+
+python main.py
+تست اجرای برنامه
+
+git status
+بررسی تغییرات
+
+git add .
+آماده کردن تغییرات
+
+git commit -m "message"
+ثبت تغییرات
+
+git push
+ارسال به GitHub
+
+
+==============================
+MEMORY
+==============================
+
+Git:
+بررسی → آماده‌سازی → ثبت → ارسال
+
+status → add → commit → push
+
+Ruff:
+بررسی → اصلاح → فرمت
+
+check → fix → format
+
+==============================

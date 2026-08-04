@@ -38,7 +38,7 @@ This repository documents my progress from Python fundamentals to building produ
 | Day | Project | Status |
 |----:|---------|:------:|
 | 00 | Profile Generator | ✅ |
-| 01 | Coming Soon | ⏳ |
+| 01 | Password Strength Checker | ✅ 
 
 ---
 
