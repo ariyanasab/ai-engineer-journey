@@ -32,7 +32,7 @@ def Profile_Generator(name, age, city, favorite_language, dream_job):
     )
     print("=============================")
     print("Good luck on your AI Engineer Journey 🚀")
-    print(f"Next year you will be {age+1} years old.")
+    print(f"Next year you will be {age + 1} years old.")
 
 
 main()
