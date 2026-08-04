@@ -38,8 +38,12 @@ This repository documents my progress from Python fundamentals to building produ
 | Day | Project | Status |
 |----:|---------|:------:|
 | 00 | Profile Generator | ✅ |
+<<<<<<< HEAD
 | 01 | Password Strength Checker | ✅ 
 
+=======
+| 01 | Password Strength Checker | ✅ |
+>>>>>>> db122af036bb419de03aa63134763633aad34a76
 ---
 
 ## 🎯 Repository Structure
